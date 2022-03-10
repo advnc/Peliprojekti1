@@ -2,4 +2,8 @@ aaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAaAaAAAaAaaaaAAAaAAAAAAaAaAAAAAAaaaaAAAaaaAAA !
 
 ඞ ඞ ඞ ඞ ඞ
 
+<<<<<<< HEAD
 teteetettetetetttetet
+=======
+Hyvin sanottu!
+>>>>>>> 4e274428ad98f49c4d277086148ca51326de1c4a
